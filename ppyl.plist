@@ -32,15 +32,15 @@
                 </array><key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.sc.SCCustomerClient</string>
+                    <string>com.br.quancheng</string>
                     <key>bundle-version</key>
-                    <string>0.1.1</string>
+                    <string>1.5.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>SL娱乐</string>
+                    <string>泡泡娱乐</string>
                     <key>title</key>
-                    <string>SL娱乐</string>
+                    <string>泡泡娱乐</string>
                 </dict>
             </dict>
         </array>
