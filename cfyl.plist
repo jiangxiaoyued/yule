@@ -11,20 +11,20 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://xyyl.banruogame.com:8088/downloadPage/csyl.ipa</string>
+                        <string>http://xyyl.banruogame.com:8088/downloadPage/chaofan/cfyl.ipa</string>
                     </dict>
                 </array><key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.br.quancheng</string>
+                    <string>com.br.chaomeng</string>
                     <key>bundle-version</key>
-                    <string>1.2.0</string>
+                    <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>超圣娱乐</string>
+                    <string>超凡娱乐</string>
                     <key>title</key>
-                    <string>超圣娱乐</string>
+                    <string>超凡娱乐</string>
                 </dict>
             </dict>
         </array>
